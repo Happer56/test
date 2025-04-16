@@ -7,4 +7,3 @@ const capitalize = (text) => {
   return `${firstChar}${restSubstring}`;
 };
 export default capitalize;
-capitalize('qweqweqwe');
